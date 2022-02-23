@@ -1,0 +1,2 @@
+เนื่องจากไฟล์ใหญ่เกินไป จึงไม่สามารถอัปลงใน GitHub ได้
+link: https://www.dropbox.com/s/fzw2a689rkpoj02/Lecture5_TextClassification.zip?dl=0&fbclid=IwAR2WN_5ysd6SrmsXszyefS_RFtuxff-xSHRHq_lkxG6oHBNZXRyjFF-Quy0
